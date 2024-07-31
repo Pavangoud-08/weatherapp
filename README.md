@@ -13,7 +13,7 @@ JavaScript
 Weather API (replace with the name of the API you used)
 Getting Started:
 Clone the repository:
-
+https://pavangoud-08.github.io/weatherapp/
 Obtain an API key from the weather API provider and replace YOUR_API_KEY in script.js with your actual API key.
 
 Open index.html in your preferred web browser.
